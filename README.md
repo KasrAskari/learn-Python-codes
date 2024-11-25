@@ -86,3 +86,4 @@ learn-Python-codes/
 
 - [Python Official Documentation](https://docs.python.org/3/)
 - [Real Python Tutorials](https://realpython.com/)
+- [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp)
