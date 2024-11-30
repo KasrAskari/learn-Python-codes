@@ -62,4 +62,24 @@ NumPy is a powerful library for numerical and matrix operations in Python. This 
 
 - Python installed on your system (download [here](https://www.python.org/downloads/)).
 - Code editor (e.g., [VS Code](https://code.visualstudio.com/) or [PyCharm](https://www.jetbrains.com/pycharm/)).
-- [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp)
+
+---
+
+## Resources
+
+Here are some useful resources for learning Python:
+
+1. [Official Python Documentation](https://docs.python.org/3/)  
+   Comprehensive documentation for Python programming, including language references and standard library modules.
+
+2. [W3Schools Python Tutorial](https://www.w3schools.com/python/)  
+   Beginner-friendly Python tutorials covering fundamental concepts with interactive examples.
+
+3. [Real Python](https://realpython.com/)  
+   A wide range of in-depth tutorials and articles for Python programmers of all levels.
+
+4. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)  
+   A free book and tutorials focused on practical Python applications in everyday tasks.
+
+5. [Python Crash Course (Book)](https://ehmatthes.github.io/pcc/)  
+   A popular Python learning resource with hands-on projects for real-world skills.
