@@ -83,3 +83,8 @@ Here are some useful resources for learning Python:
 
 5. [Python Crash Course (Book)](https://ehmatthes.github.io/pcc/)  
    A popular Python learning resource with hands-on projects for real-world skills.
+
+---
+
+## License  
+This project is open-source and available under the MIT License
