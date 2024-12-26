@@ -52,7 +52,8 @@ Pandas/
 
 1. [Pandas Official Documentation](https://pandas.pydata.org/docs/)  
 2. [10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)  
-3. [Python for Data Analysis (Book)](https://www.oreilly.com/library/view/python-for-data/9781491957653/)  
+3. [Python for Data Analysis (Book)](https://www.oreilly.com/library/view/python-for-data/9781491957653/)
+4. [W3Schools Pandas Tutorial](https://www.w3schools.com/python/pandas/default.asp)
 
 ---
 
