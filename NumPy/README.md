@@ -52,7 +52,8 @@ NumPy/
 
 1. [NumPy Official Documentation](https://numpy.org/doc/)  
 2. [NumPy Quickstart Guide](https://numpy.org/doc/stable/user/quickstart.html)  
-3. [Python Data Science Handbook (Free)](https://jakevdp.github.io/PythonDataScienceHandbook/)  
+3. [Python Data Science Handbook (Free)](https://jakevdp.github.io/PythonDataScienceHandbook/)
+4. [W3Schools Numpy Tutorial](https://www.w3schools.com/python/numpy/default.asp)
 
 ---
 
