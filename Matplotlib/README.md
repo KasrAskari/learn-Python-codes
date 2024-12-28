@@ -1,3 +1,5 @@
+# Learn Matplotlib with Python
+
 ## Overview
 This repository contains foundational examples and codes for learning and experimenting with **Matplotlib**, a powerful plotting library for Python. These examples aim to help beginners understand how to visualize data effectively using various plots and charts.
 
