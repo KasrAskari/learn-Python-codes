@@ -44,3 +44,6 @@ Here are some visualizations you will learn to create with the provided examples
 
 3. **Scatter Plot**
    ![Scatter Plot Example](https://matplotlib.org/stable/_images/sphx_glr_scatter_001.png)
+
+4. **Pie Chart**
+   ![Pie Chart Example](https://matplotlib.org/stable/_images/sphx_glr_pie_features_001.png)
