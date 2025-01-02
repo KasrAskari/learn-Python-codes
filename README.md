@@ -1,7 +1,7 @@
 # Learn Python Codes
 
 ## Overview
-This repository contains Python scripts and examples designed for learners to explore and practice Python programming. It starts with beginner-friendly concepts and progresses to advanced topics, including numerical computations using libraries like NumPy and data manipulation using Pandas. Additionally, it includes examples for data visualization using Matplotlib.
+This repository contains Python scripts and examples designed for learners to explore and practice Python programming. It starts with beginner-friendly concepts and progresses to advanced topics, including numerical computations using libraries like NumPy and data manipulation using Pandas. Additionally, it includes examples for data visualization using Matplotlib and scientific computations using SciPy.
 
 ---
 
@@ -10,6 +10,7 @@ This repository contains Python scripts and examples designed for learners to ex
 - **Intermediate Concepts**: Includes OOP, file handling, and functions.  
 - **NumPy and Pandas Examples**: Demonstrates numerical operations and data manipulation.  
 - **Matplotlib Examples**: Illustrates data visualization techniques.  
+- **SciPy Examples**: Highlights scientific computing techniques.  
 - **Practice Material**: Includes projects and exercises to reinforce learning.  
 
 ---
@@ -24,6 +25,7 @@ learn-Python-codes/
 ├── 05-NumPy/                 # NumPy examples for numerical computations  
 ├── 06-Pandas/                # Pandas examples for data analysis and manipulation  
 ├── 07-Matplotlib/            # Matplotlib examples for data visualization  
+├── 08-SciPy/                 # SciPy examples for scientific computing  
 ├── projects/                 # Practice projects for applying concepts  
 ├── exercises/                # Coding exercises for learners  
 ├── README.md                 # Documentation  
@@ -67,6 +69,12 @@ Examples illustrating Matplotlib's usage:
 - Creating line, bar, scatter, and pie charts.  
 - Customizing plots (titles, labels, legends, and colors).  
 - Using subplots for multiple visualizations.  
+
+### 8. SciPy
+Examples demonstrating SciPy's capabilities:  
+- Scientific computations and optimization.  
+- Solving linear algebra problems.  
+- Signal processing and statistical analysis.  
 
 ---
 
