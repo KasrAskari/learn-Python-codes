@@ -67,6 +67,7 @@ SciPy/
 1. [Official SciPy Documentation](https://docs.scipy.org/doc/)
 2. [SciPy Cookbook](https://scipy-cookbook.readthedocs.io/)
 3. [Real Python - SciPy Tutorials](https://realpython.com/)
+4. 4. [W3Schools Pandas Tutorial](https://www.w3schools.com/python/scipy/index.php)
 
 ---
 
